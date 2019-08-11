@@ -1,4 +1,5 @@
 # recipeProject
+Modern Javascript(ES6, Webpack 4, Babel etc)
 -Enter the food you are looking for.
 -An AJAX request is sent to the recipe API | food2fork (note the free acount limits the API calls to 50/day).
 -Then the top 30 recipies are rendered to the left column.
